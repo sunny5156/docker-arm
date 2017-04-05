@@ -1,1 +1,1 @@
-FROM resin/rpi-raspbian:wheezy
+FROM armv7/armhf-ubuntu
